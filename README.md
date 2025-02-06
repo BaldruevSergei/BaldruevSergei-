@@ -1,10 +1,7 @@
 # BaldruevSergei-
 Full Stack Java Developer | teacher IT 
-Вы можете обновить ваш `README.md` на GitHub, добавив актуальные ссылки. Вот обновленный вариант:
 
----
 
-Вы можете обновить ваш `README.md` на GitHub, добавив ссылку на Facebook. Вот окончательный вариант с учетом всех ваших контактов:
 
 ---
 
@@ -13,9 +10,11 @@ Full Stack Java Developer | teacher IT
 💻 **Full Stack Java Developer | Учитель информатики**  
 📍 **Монголия | Разработка образовательных систем**  
 📫 **Как со мной связаться:**  
-🔗 [LinkedIn](https://www.linkedin.com/in/sergei-baldruev-42100529b) |  
-📧 [baldruev.sergey@gmail.com](mailto:baldruev.sergey@gmail.com) |  
-📘 [Facebook](https://www.facebook.com/profile.php?id=100075208969618)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sergei-baldruev-42100529b)  
+- 📧 [baldruev.sergey@gmail.com](mailto:baldruev.sergey@gmail.com)  
+- 📘 [Facebook](https://www.facebook.com/profile.php?id=100075208969618)  
+- 💬 [Telegram](https://t.me/Baldruev_Sergei)  
+- 📞 **Телефон:** +7 9025 622 533  
 
 ---
 
@@ -42,4 +41,6 @@ Full Stack Java Developer | teacher IT
 > *"Учусь, создаю, разрабатываю и помогаю другим."*
 
 ---
+
+Теперь ваши контакты полностью структурированы и их легко найти. Если хотите что-то уточнить или добавить, дайте знать! 😊
 
