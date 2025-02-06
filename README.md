@@ -4,16 +4,22 @@ Full Stack Java Developer | teacher IT
 
 ---
 
- 👋 Привет, я Сергей Бальдруев!
+Вы можете обновить ваш `README.md` на GitHub, добавив ссылку на Facebook. Вот окончательный вариант с учетом всех ваших контактов:
+
+---
+
+# 👋 Привет, я Сергей Бальдруев!
 
 💻 **Full Stack Java Developer | Учитель информатики**  
 📍 **Монголия | Разработка образовательных систем**  
 📫 **Как со мной связаться:**  
-🔗 [LinkedIn](https://www.linkedin.com/in/sergei-baldruev-42100529b) | 📧 [baldruev.sergey@gmail.com](mailto:baldruev.sergey@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sergei-baldruev-42100529b) |  
+📧 [baldruev.sergey@gmail.com](mailto:baldruev.sergey@gmail.com) |  
+📘 [Facebook](https://www.facebook.com/profile.php?id=100075208969618)  
 
 ---
 
- 🚀 **Мои проекты**
+## 🚀 **Мои проекты**
 - 🔹 **[ExmDirect](https://github.com/BaldruevSergei/exmdirect)** – сайт для тестирования учеников.  
 - 🔹 **[FileServiceHub](https://github.com/BaldruevSergei/FileServiceHub)** – сервис для управления файлами.  
 - 🔹 **[Тестирующий сайт (сайт 2)](https://github.com/BaldruevSergei/testing-website)** – онлайн-платформа для тестирования учеников в монгольских школах, аналог системы Индиго.  
@@ -28,7 +34,7 @@ Full Stack Java Developer | teacher IT
 
 ---
 
-💡 **Навыки**
+## 💡 **Навыки**
 - **Backend:** Java, Spring Boot, PostgreSQL, REST API  
 - **Frontend:** React, Redux, JavaScript, Tailwind CSS  
 - **DevOps:** Docker, CI/CD, Linux  
